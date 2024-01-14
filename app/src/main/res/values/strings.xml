@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PazaramaMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Release date</string>
+    <string name="_23_jun_1989">23 Jun 1989</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="search">Search</string>
+    <string name="retry">Retry</string>
+    <string name="rating_imdb">%s (IMDB)</string>
+    <string name="back_button">Back button</string>
+    <string name="default_query">Batman</string>
+</resources>
